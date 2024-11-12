@@ -7,10 +7,9 @@ sections:
       text: Nature n Animals
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: [Subtitle goes here](https://naturenanimals.com/)
     text: >
-      Hi! Our Aim to bring most genuine information about nature and animals and make more awareness to preserve and protect the nature source which we have got.
-It’s a price less lets come together a save our beautiful Nature and Animals. https://naturenanimals.com/
+      A Netlify Create website is a git repo that you own. Every code commit is instantly reflected in the visual editor and since every visual edit is a git commit, git workflows and collaboration just work.
 
     actions:
       - label: Get started
