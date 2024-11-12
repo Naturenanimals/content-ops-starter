@@ -4,14 +4,14 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Nature n Animals
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Hi! Our Aim to bring most genuine information about nature and animals and make more awareness to preserve and protect the nature source which we have got.
+It’s a price less lets come together a save our beautiful Nature and Animals. https://naturenanimals.com/
+
     actions:
       - label: Get started
         altText: ''
